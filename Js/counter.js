@@ -10,4 +10,4 @@ function counter() {
 document.querySelector("button").onclick = counter;
 
 
-document.addEventListener("click", function () { document.querySelector("button").style.backgroundColor = "red" });
+// document.addEventListener("click", function () { document.querySelector("button").style.backgroundColor = "red" });
